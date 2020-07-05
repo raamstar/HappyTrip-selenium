@@ -16,7 +16,7 @@ public class excel {
 	public void signin(String Username,String Password)
 	{
 		
-		System.setProperty("webdriver.chrome.driver", "E:\\chromedriver\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "./src/test/resources/chromedriver/chromedriver.exe");
 		driver=new ChromeDriver();
 		
 		
