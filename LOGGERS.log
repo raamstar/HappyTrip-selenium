@@ -160,3 +160,13 @@
 01:42:48.508 [main] INFO  testcases.arrivalCalendarClick - Checking for clicking on arrival calendar
 01:42:49.695 [main] INFO  testcases.CostOfClass - entering as admin
 01:42:58.087 [main] INFO  testcases.CostOfClass - Checking for the block of cost of cost  
+11:02:04.219 [main] INFO  testcases.arrivalCalendarClick - entering as admin
+11:02:15.218 [main] INFO  testcases.arrivalCalendarClick - Checking for clicking on arrival calendar
+11:02:17.129 [main] INFO  testcases.AddFlightDetails - entering as admin
+11:02:23.450 [main] DEBUG data.ExcelData - Execution Started
+11:02:26.414 [main] INFO  data.ExcelData - Maximizing the window
+11:08:01.659 [main] INFO  testcases.route - entering as admin
+11:08:12.369 [main] INFO  testcases.route - Choosing the route
+11:08:12.556 [main] INFO  testcases.route - selecting the route
+11:08:13.487 [main] INFO  testcases.route - closing the webpage
+11:08:13.863 [main] INFO  testcases.AddFlightDetails - entering as admin
