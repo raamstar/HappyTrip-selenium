@@ -1,5 +1,6 @@
 package testcases;
 
+import org.testng.annotations.Test;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
@@ -10,7 +11,7 @@ import org.testng.annotations.Test;
 public class departureCalendarSelect {
 	 private static Logger Log = LogManager.getLogger(departureCalendarSelect.class.getName());
 	excel ex=new excel();
-	
+	@Test
 	public void depatureCalendarClick_() {
 		Log.info("entering as admin");
 		ex.signin("Admin@mindtree.com", "admin");

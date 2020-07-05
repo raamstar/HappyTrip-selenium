@@ -1,5 +1,6 @@
 package testcases;
 
+import org.testng.annotations.Test;
 import java.util.Map;
 
 import org.apache.logging.log4j.LogManager;

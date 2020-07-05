@@ -1,11 +1,12 @@
 package testcases;
 
+
+import org.testng.annotations.Test;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-
-
+import org.testng.annotations.Test;
 
 import testcases.excel;
 
@@ -13,7 +14,7 @@ public class route {
 	
 	 private static Logger Log = LogManager.getLogger(route.class.getName());
 	excel ex=new excel();
-	
+	@Test
 	public void route_() {
 		Log.info("entering as admin");
 		ex.signin("Admin@mindtree.com", "admin");

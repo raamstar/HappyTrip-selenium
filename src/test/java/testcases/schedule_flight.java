@@ -1,12 +1,12 @@
 package testcases;
 
+import org.testng.annotations.Test;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
-
-
+import org.testng.annotations.Test;
 
 import testcases.excel;
 
@@ -14,7 +14,8 @@ public class schedule_flight {
 	
 	 private static Logger Log = LogManager.getLogger(schedule_flight.class.getName());
 	excel ex=new excel();
-
+	
+	@Test
 	public void scheduleFlight() {
 		Log.info("entering as admin");
 		ex.signin("Admin@mindtree.com", "admin");

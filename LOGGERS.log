@@ -170,3 +170,81 @@
 11:08:12.556 [main] INFO  testcases.route - selecting the route
 11:08:13.487 [main] INFO  testcases.route - closing the webpage
 11:08:13.863 [main] INFO  testcases.AddFlightDetails - entering as admin
+11:38:19.055 [main] INFO  testcases.ArrivalCalendarSelect - entering as admin
+11:38:30.152 [main] INFO  testcases.ArrivalCalendarSelect - Checking for selecting the Arrival date
+11:38:31.253 [main] INFO  testcases.AddFlightDetails - entering as admin
+11:38:41.128 [main] INFO  testcases.AddFlightDetails - Selecting the flight from dropdown
+11:38:42.056 [main] INFO  testcases.AddFlightDetails - selecting the route
+11:38:42.467 [main] INFO  testcases.AddFlightDetails - adding the distance 
+11:38:42.685 [main] INFO  testcases.AddFlightDetails - selecting the departure date
+11:38:43.217 [main] INFO  testcases.AddFlightDetails - selecting the departure time
+11:38:43.533 [main] INFO  testcases.AddFlightDetails - selecting the arrival date
+11:38:43.823 [main] INFO  testcases.AddFlightDetails - selecting the arrival time
+11:38:44.143 [main] INFO  testcases.AddFlightDetails - adding the cost of economy
+11:38:44.321 [main] INFO  testcases.AddFlightDetails - finally adding the flight
+11:38:45.902 [main] INFO  testcases.DepartureTimeClick - entering as admin
+11:38:54.011 [main] INFO  testcases.DepartureTimeClick - Clicking on the departure time
+11:38:54.188 [main] INFO  testcases.DepartureTimeClick - Checking the status
+11:38:54.506 [main] INFO  testcases.ArrivalTimeClick - entering as admin
+11:39:03.623 [main] INFO  testcases.ArrivalTimeClick - Checking for click on departure time
+11:39:09.485 [main] DEBUG data.ExcelData - Execution Started
+11:39:12.037 [main] INFO  data.ExcelData - Maximizing the window
+11:39:17.908 [main] INFO  data.ExcelData - adding the credentials
+11:39:19.351 [main] INFO  data.ExcelData - Clicking on schedule flight
+11:39:19.923 [main] INFO  testcases.depatureCalendarClick - entering as admin
+11:39:28.791 [main] INFO  testcases.depatureCalendarClick - Clicking on Departure Calendar
+11:39:28.981 [main] INFO  testcases.depatureCalendarClick - Testing the input case
+11:39:30.279 [main] INFO  testcases.schedule_flight - entering as admin
+11:39:39.872 [main] INFO  testcases.schedule_flight - Choosing the flight
+11:39:40.125 [main] INFO  testcases.schedule_flight - Selecting by index of flight
+11:39:41.900 [main] INFO  testcases.arrivalCalendarClick - entering as admin
+11:39:51.074 [main] INFO  testcases.arrivalCalendarClick - Checking for clicking on arrival calendar
+11:39:52.478 [main] INFO  testcases.CostOfClass - entering as admin
+11:40:01.682 [main] INFO  testcases.CostOfClass - Checking for the block of cost of cost  
+11:40:07.010 [main] INFO  testcases.departureCalendarSelect - entering as admin
+11:40:16.322 [main] INFO  testcases.departureCalendarSelect - Clicking on departure calendar
+11:40:17.322 [main] INFO  testcases.route - entering as admin
+11:40:26.493 [main] INFO  testcases.route - Choosing the route
+11:40:26.667 [main] INFO  testcases.route - selecting the route
+11:40:27.687 [main] INFO  testcases.route - closing the webpage
+11:40:27.944 [main] INFO  testcases.route - entering as admin
+11:40:37.657 [main] INFO  testcases.route - Choosing the route
+11:40:37.828 [main] INFO  testcases.route - selecting the route
+11:40:38.835 [main] INFO  testcases.route - closing the webpage
+12:25:37.386 [main] INFO  testcases.route - entering as admin
+12:25:47.893 [main] INFO  testcases.route - Choosing the route
+12:25:48.067 [main] INFO  testcases.route - selecting the route
+12:25:48.873 [main] INFO  testcases.route - closing the webpage
+12:27:03.718 [main] INFO  testcases.route - entering as admin
+12:27:14.247 [main] INFO  testcases.route - Choosing the route
+12:27:14.439 [main] INFO  testcases.route - selecting the route
+12:27:15.276 [main] INFO  testcases.route - closing the webpage
+12:27:16.131 [main] INFO  testcases.AddFlightDetails - entering as admin
+12:27:26.189 [main] INFO  testcases.AddFlightDetails - Selecting the flight from dropdown
+12:27:26.854 [main] INFO  testcases.AddFlightDetails - selecting the route
+12:27:27.487 [main] INFO  testcases.AddFlightDetails - adding the distance 
+12:27:27.680 [main] INFO  testcases.AddFlightDetails - selecting the departure date
+12:27:28.069 [main] INFO  testcases.AddFlightDetails - selecting the departure time
+12:27:28.426 [main] INFO  testcases.AddFlightDetails - selecting the arrival date
+12:27:28.703 [main] INFO  testcases.AddFlightDetails - selecting the arrival time
+12:27:28.988 [main] INFO  testcases.AddFlightDetails - adding the cost of economy
+12:27:29.201 [main] INFO  testcases.AddFlightDetails - finally adding the flight
+12:27:30.303 [main] INFO  testcases.schedule_flight - entering as admin
+12:27:39.251 [main] INFO  testcases.schedule_flight - Choosing the flight
+12:27:39.524 [main] INFO  testcases.schedule_flight - Selecting by index of flight
+12:27:40.930 [main] INFO  testcases.depatureCalendarClick - entering as admin
+12:27:50.667 [main] INFO  testcases.depatureCalendarClick - Clicking on Departure Calendar
+12:27:51.381 [main] INFO  testcases.depatureCalendarClick - Testing the input case
+12:27:52.316 [main] INFO  testcases.DepartureTimeClick - entering as admin
+12:28:01.201 [main] INFO  testcases.DepartureTimeClick - Clicking on the departure time
+12:28:01.363 [main] INFO  testcases.DepartureTimeClick - Checking the status
+12:28:01.808 [main] INFO  testcases.departureCalendarSelect - entering as admin
+12:28:10.700 [main] INFO  testcases.departureCalendarSelect - Clicking on departure calendar
+12:28:11.902 [main] INFO  testcases.ArrivalTimeClick - entering as admin
+12:28:21.645 [main] INFO  testcases.ArrivalTimeClick - Checking for click on departure time
+12:28:27.278 [main] INFO  testcases.ArrivalCalendarSelect - entering as admin
+12:28:36.787 [main] INFO  testcases.ArrivalCalendarSelect - Checking for selecting the Arrival date
+12:28:37.854 [main] INFO  testcases.arrivalCalendarClick - entering as admin
+12:28:46.852 [main] INFO  testcases.arrivalCalendarClick - Checking for clicking on arrival calendar
+12:28:48.169 [main] INFO  testcases.CostOfClass - entering as admin
+12:28:57.384 [main] INFO  testcases.CostOfClass - Checking for the block of cost of cost  

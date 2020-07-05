@@ -1,5 +1,6 @@
 package testcases;
 
+import org.testng.annotations.Test;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
@@ -11,7 +12,7 @@ public class DepartureTimeClick {
 	
 	 private static Logger Log = LogManager.getLogger(DepartureTimeClick.class.getName());
 	excel ex=new excel();
-
+	@Test
 	public void DepartureTimeClick_() {
 		Log.info("entering as admin");
 		ex.signin("Admin@mindtree.com", "admin");

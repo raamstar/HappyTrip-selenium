@@ -1,5 +1,7 @@
 package testcases;
 
+import org.testng.annotations.Test;
+import org.testng.AssertJUnit;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
@@ -25,7 +27,7 @@ public class arrivalCalendarClick {
 		String expected = "1";
 		WebElement element= ex.driver.findElement(By.className(("ui-state-default")));
 		String actual= element.getText();
-		Assert.assertEquals(actual, expected);
+		AssertJUnit.assertEquals(actual, expected);
 		ex.driver.navigate().refresh();
 		
 		ex.driver.close();
